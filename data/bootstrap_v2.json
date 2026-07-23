@@ -1,0 +1,31 @@
+{
+  "B_boot": 500,
+  "P": 200,
+  "seed": 42,
+  "precision_replicas": "bf16",
+  "vocab_sha": "6bd2b7d9fa90b02c0f6ba919d37c4c9515ed2bc4704b1f00c0927feb960289e3",
+  "point_onset": 15,
+  "stability_interval_95": [
+    9,
+    16
+  ],
+  "localized": false,
+  "m_out_of_n": {
+    "m": 69,
+    "interval": [
+      9,
+      17
+    ]
+  },
+  "onset_distribution": {
+    "6": 1,
+    "8": 1,
+    "9": 68,
+    "12": 8,
+    "14": 66,
+    "15": 295,
+    "16": 56,
+    "17": 5
+  },
+  "verdict": "INCONCLUYENTE: onset no localizado"
+}
