@@ -99,9 +99,6 @@ Dos advertencias que el propio análisis impone. Primera: como Q decrece monóto
 
 *Figura 5. Similitud CKA capa×capa. Las cuatro costuras {L9, L15, L23, L40} son caídas genuinas de similitud visibles en la matriz, no artefactos de una elección de segmentación.*
 
-### 4.4 Reinterpretación de la señal LSGOT
-
-L21 —la capa implicada en las observaciones internas por capas de la serie LSGOT (ver nota de procedencia en §2; no forman parte del paper LSGOT publicado)— queda a dos capas de L23, la costura de mayor peso de toda la red. La hipótesis P-LSGOT erró el rol (entrada) pero no la región: la señal previa apuntaba a la vecindad de la *salida* del workspace, que este análisis identifica como la transición dominante. Los diagnósticos corroborativos de §5 (extremos locales de curtosis y autocorrelación cerca de L21) son consistentes con esa lectura. Desarrollarla es materia de la nota complementaria correspondiente, no de este paper.
 
 ## 5. Controles de robustez
 

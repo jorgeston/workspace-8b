@@ -99,9 +99,6 @@ Two caveats the analysis itself imposes. First: since Q decreases monotonically 
 
 *Figure 5. Layer×layer CKA similarity. The four seams {L9, L15, L23, L40} are genuine similarity drops visible in the matrix, not artifacts of any single segmentation choice.*
 
-### 4.4 Reinterpreting the LSGOT signal
-
-L21 — the layer implicated in internal layer-resolved observations of the LSGOT series (see the provenance note in §2; not part of the published LSGOT paper) — sits two layers from L23, the heaviest seam in the entire network. The P-LSGOT hypothesis got the role wrong (entrance) but not the region: the earlier signal pointed at the neighborhood of the workspace *exit*, which this analysis identifies as the dominant transition. The corroborative diagnostics of §5 (local extrema of kurtosis and autocorrelation near L21) are consistent with that reading. Developing it further is the subject of the corresponding companion note, not this paper.
 
 ## 5. Robustness controls
 

@@ -30,7 +30,6 @@ mecánicamente el veredicto inconcluyente del bootstrap sellado.
 |---|---|
 | `paper_EN.md` | Preprint completo en inglés (venue: arXiv cs.LG / serie EXIS) |
 | `paper_ES.md` | Versión en español (adaptación completa, no traducción literal) |
-| `00_brief.md` | Brief original de planificación (histórico; anterior a v2.1) |
 | `data/` | Artefactos numéricos del run confirmatorio v2 + `seam_analysis.json` (ver `data/DATA_SOURCES.md`) |
 | `figures/` | 6 figuras (PNG) + scripts de regeneración determinista |
 
