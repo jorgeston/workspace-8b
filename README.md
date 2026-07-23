@@ -55,20 +55,3 @@ diagnóstico de la región L40–42). El tensor Jacobiano crudo (`J_bar_v2.pt`,
 
 Ninguno de los dos scripts depende del tensor excluido.
 
-## Pendientes antes de la versión para revisión de pares
-
-Registrados en §7 de ambos papers:
-
-- [ ] Bootstrap sellado del modelo de cinco bloques (criterio de
-      localización por costura individual; predicción registrada
-      {L9, L15, L23, L40}).
-- [ ] Distribución bootstrap conjunta (τ₁…τ₄) para demostrar las anatomías
-      alternantes A/B (hoy solo inferidas de marginales).
-- [ ] Criterio de selección de k pre-registrado (estabilidad de fronteras
-      primario; Q penalizado secundario).
-- [ ] Diagnóstico dedicado de la región L40–42 (costura de emisión).
-- [ ] Panel cross-arquitectura (Qwen2.5-7B cerrado; DeepSeek-R1-Distill-7B
-      en curso).
-- [ ] Réplica en un segundo corpus.
-- [ ] Revisar la cita de Gurnee, Sofroniew, Lindsey et al. (2026) contra el
-      formato del venue elegido antes de someter.
